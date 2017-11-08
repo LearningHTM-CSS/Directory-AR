@@ -1,7 +1,7 @@
 
-a, a:link {color:#CDB79E;}
+a, a:link {color:#CDB79E; font-family:"Trebuchet MS"}
 
-h1 {
+h1 {font-family:Courier;
     font-style: italic;
     color:#8B5A2B;}
 
